@@ -121,26 +121,10 @@ INSERT INTO db_notas.categorias (nombre)
 VALUES ("Categoria 1");
 
 INSERT INTO db_notas.categorias (nombre)
-VALUES ("Categoria 1");
-
-INSERT INTO db_notas.categorias (nombre)
-VALUES ("Categoria 2");
-
-INSERT INTO db_notas.categorias (nombre)
 VALUES ("Categoria 2");
 
 INSERT INTO db_notas.categorias (nombre)
 VALUES ("Categoria 3");
-
-
-INSERT INTO db_notas.categorias (nombre)
-VALUES ("Categoria 3");
-
-INSERT INTO db_notas.categorias (nombre)
-VALUES ("Categoria 4");
-
-INSERT INTO db_notas.categorias (nombre)
-VALUES ("Categoria 4");
 
 INSERT INTO db_notas.categorias (nombre)
 VALUES ("Categoria 4");
@@ -149,7 +133,20 @@ INSERT INTO db_notas.categorias (nombre)
 VALUES ("Categoria 5");
 
 INSERT INTO db_notas.categorias (nombre)
-VALUES ("Categoria 5");
+VALUES ("Categoria 6");
+
+INSERT INTO db_notas.categorias (nombre)
+VALUES ("Categoria 7");
+
+INSERT INTO db_notas.categorias (nombre)
+VALUES ("Categoria 8");
+
+INSERT INTO db_notas.categorias (nombre)
+VALUES ("Categoria 9");
+
+INSERT INTO db_notas.categorias (nombre)
+VALUES ("Categoria 10");
+
 
 -- relacion NOTAS-CATEGORIAS
 
